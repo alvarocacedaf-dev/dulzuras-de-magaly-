@@ -688,7 +688,7 @@ input[aria-invalid="true"] {
 .reference-card img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
   background: #fff;
 }
 
@@ -780,7 +780,7 @@ input[aria-invalid="true"] {
 .ai-generated-card img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
   background: #fff7f3;
 }
 
