@@ -716,78 +716,68 @@ function clearAiCakeResult() {
   resultBox.innerHTML = "";
 }
 
-async function generateCakeWithAi() {
+function findInspirationMatches() {
+  const cake = getCakeData();
+  const inspirationItems = typeof cakeInspiration === "undefined" ? [] : cakeInspiration;
+  const cakes = inspirationItems.filter((item) => item.category === "tortas");
+  const criteria = getReferenceCriteria(cake);
+
+  return cakes
+    .map((item) => {
+      const searchText = makeSearchText(item);
+      const matched = criteria.filter((group) => group.terms.some((term) => searchText.includes(term)));
+      const score = criteria.length ? matched.length / criteria.length : 0;
+      return { item, score, matched };
+    })
+    .filter((match) => match.score >= 0.8)
+    .sort((a, b) => b.score - a.score || b.matched.length - a.matched.length)
+    .slice(0, 2);
+}
+
+function generateCakeWithAi() {
   const button = $("#generateCakeAiBtn");
   const cake = getCakeData();
 
   if (!cake.includeCake) {
     setAiCakeResult(`
       <div class="ai-cake-message">
-        Activa "Incluir torta personalizada en el pedido" para generar una referencia.
+        Activa "Incluir torta personalizada en el pedido" para preparar una referencia.
       </div>
     `);
     return;
   }
 
-  const prompt = buildCakeAiPrompt(cake);
   button.disabled = true;
-  setAiCakeResult(`
-    <div class="ai-cake-message">
-      Generando una referencia visual de tu torta...
-    </div>
-  `, "is-loading");
+  const matches = findInspirationMatches();
 
-  try {
-    const response = await fetch("/api/generate-cake", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        prompt,
-        cake: {
-          theme: cake.theme.name,
-          serving: cake.serving.people,
-          flavor: cake.flavor,
-          filling: cake.filling.name,
-          decoration: cake.decoration.name,
-          shapeName: cake.shapeName,
-          cakeMessage: cake.cakeMessage,
-          notes: cake.notes
-        }
-      })
-    });
-
-    const data = await response.json().catch(() => ({}));
-
-    if (!response.ok || data.error) {
-      throw new Error(data.error || "No se pudo generar la imagen en este momento.");
-    }
-
-    if (!data.image) {
-      throw new Error("La IA no devolvió una imagen. Intenta otra vez.");
-    }
-
-    const imageSrc = data.image.startsWith("data:")
-      ? data.image
-      : `data:${data.mimeType || "image/png"};base64,${data.image}`;
-
+  if (!matches.length) {
     setAiCakeResult(`
-      <article class="ai-generated-card">
-        <img src="${imageSrc}" alt="Referencia generada por IA para la torta personalizada">
-        <div>
-          <h4>Referencia generada por IA</h4>
-          <p>Esta imagen es solo una idea visual. El diseño, colores, precio y detalles finales se confirman por WhatsApp.</p>
-        </div>
-      </article>
-    `);
-  } catch (error) {
-    setAiCakeResult(`
-      <div class="ai-cake-message ai-error">
-        ${escapeHTML(error.message)}
+      <div class="ai-cake-message">
+        No se encontró una referencia con esas características aún. Igual se puede preparar, pero el diseño se confirma por WhatsApp.
       </div>
     `);
-  } finally {
     button.disabled = false;
+    return;
   }
+
+  setAiCakeResult(`
+    <div class="reference-message">
+      Seleccionamos ${matches.length} diseño${matches.length === 1 ? "" : "s"} de inspiración con al menos 80% de coincidencia.
+    </div>
+    <div class="ai-reference-grid">
+      ${matches.map(({ item, score, matched }) => `
+        <article class="ai-generated-card">
+          <img src="${escapeHTML(item.image)}" alt="${escapeHTML(item.title)}" loading="lazy">
+          <div>
+            <h4>${escapeHTML(item.title)}</h4>
+            <p>${Math.round(score * 100)}% similar · ${escapeHTML(matched.map((group) => group.label).join(" · "))}</p>
+          </div>
+        </article>
+      `).join("")}
+    </div>
+  `);
+
+  button.disabled = false;
 }
 
 function toggleCustomShape(shouldFocus = false) {
