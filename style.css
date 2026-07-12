@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --bg: #fff7f3;
   --bg-soft: #ffe4d3;
   --text: #352321;
@@ -671,12 +671,14 @@ input[aria-invalid="true"] {
 
 .reference-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 320px));
+  justify-content: start;
   gap: 14px;
 }
 
 .reference-card {
   overflow: hidden;
+  max-width: 320px;
   border: 1px solid rgba(196, 93, 115, 0.16);
   border-radius: 18px;
   background: #fff;
@@ -768,6 +770,7 @@ input[aria-invalid="true"] {
 
 .ai-generated-card {
   overflow: hidden;
+  max-width: 320px;
   border: 1px solid rgba(196, 93, 115, 0.16);
   border-radius: 18px;
   background: #fff;
@@ -776,7 +779,7 @@ input[aria-invalid="true"] {
 
 .ai-generated-card img {
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   background: #fff7f3;
 }
@@ -796,6 +799,13 @@ input[aria-invalid="true"] {
 .ai-generated-card p {
   margin: 0;
   color: var(--muted);
+}
+
+.ai-reference-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 320px));
+  justify-content: start;
+  gap: 14px;
 }
 
 @keyframes softLoading {
