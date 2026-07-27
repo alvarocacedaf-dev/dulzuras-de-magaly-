@@ -8,18 +8,18 @@
   <meta property="og:title" content="Dulzuras de Magaly | Tortas, postres y buffet a pedido" />
   <meta property="og:description" content="Cotiza tortas personalizadas, postres y buffet para tus celebraciones." />
   <meta property="og:type" content="website" />
-  <link rel="icon" href="assets/dulzuras-de-magaly-logo.png" />
+  <link rel="icon" href="assets/branding/dulzuras-de-magaly-logo.png" />
   <title>Dulzuras de Magaly | Tortas, Postres y Buffet</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=7" />
+  <link rel="stylesheet" href="css/style.css?v=7" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand-area">
       <a class="logo" href="#inicio" aria-label="Ir al inicio">
-        <img src="assets/dulzuras-de-magaly-logo.png" alt="Logo Dulzuras de Magaly">
+        <img src="assets/branding/dulzuras-de-magaly-logo.png" alt="Logo Dulzuras de Magaly">
         <span>Dulzuras de Magaly</span>
       </a>
       <div class="header-social" aria-label="Redes sociales">
@@ -29,7 +29,7 @@
       </div>
     </div>
     <button class="menu-btn" id="menuBtn" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
-    <nav class="nav" id="nav" aria-label="Navegacion principal">
+    <nav class="nav" id="nav" aria-label="Navegación principal">
       <a href="#servicios">Servicios</a>
       <a href="#galeria">Galería</a>
       <a href="#tortas">Cotizador</a>
@@ -42,7 +42,7 @@
   <main>
     <section class="hero" id="inicio">
       <div class="hero-content">
-        <img class="brand-seal" src="assets/dulzuras-de-magaly-logo.png" alt="Dulzuras de Magaly">
+        <img class="brand-seal" src="assets/branding/dulzuras-de-magaly-logo.png" alt="Dulzuras de Magaly">
         <p class="eyebrow">Tortas personalizadas · postres · buffet</p>
         <h1>Endulzamos tus momentos especiales</h1>
         <p class="hero-text">
@@ -53,7 +53,7 @@
           <a class="btn primary" href="#tortas">Cotizar ahora</a>
           <a class="btn secondary" href="#galeria">Ver ideas</a>
         </div>
-        <dl class="hero-facts" aria-label="Datos rapidos">
+        <dl class="hero-facts" aria-label="Datos rápidos">
           <div>
             <dt>Pedidos</dt>
             <dd>Con anticipación</dd>
@@ -70,7 +70,7 @@
       </div>
 
       <figure class="hero-photo photo-frame">
-        <img src="assets/hero-torta.jpg" alt="Torta corazon blanca con flores y detalles dorados" data-photo>
+        <img src="assets/inicio/hero-torta.jpg" alt="Torta corazón blanca con flores y detalles dorados" data-photo>
         <figcaption>
           <span>Torta destacada</span>
           <strong>Diseños elegantes para fechas especiales</strong>
@@ -78,7 +78,7 @@
       </figure>
     </section>
 
-    <section class="trust-strip" aria-label="Informacion importante">
+    <section class="trust-strip" aria-label="Información importante">
       <article>
         <strong>Pedidos a medida</strong>
         <span>Temática, sabor, relleno y decoración según la ocasión.</span>
@@ -126,18 +126,18 @@
 
       <div class="gallery-grid">
         <figure class="photo-frame tall">
-          <img src="assets/galeria-torta-evento.jpg" alt="Torta de tres pisos con flores azules" data-photo>
+          <img src="assets/galeria/galeria-torta-evento.jpg" alt="Torta de tres pisos con flores azules" data-photo>
           <figcaption><span>Tortas para evento</span><strong>Modelos de varios pisos con detalles florales</strong></figcaption>
         </figure>
         <figure class="photo-frame">
           <div class="split-photo">
-            <img src="assets/galeria-postres-paletas.jpg" alt="Paletas dulces rosadas con lazos y detalles dorados" data-photo>
-            <img src="assets/galeria-postres-cupcakes.png" alt="Cupcakes rosados decorados como ramo" data-photo>
+            <img src="assets/galeria/galeria-postres-paletas.jpg" alt="Paletas dulces rosadas con lazos y detalles dorados" data-photo>
+            <img src="assets/galeria/galeria-postres-cupcakes.png" alt="Cupcakes rosados decorados como ramo" data-photo>
           </div>
           <figcaption><span>Postres para regalar</span><strong>Cajas dulces decoradas para celebrar</strong></figcaption>
         </figure>
         <figure class="photo-frame">
-          <img src="assets/galeria-bocaditos.png" alt="Caja de bocaditos dulces y salados" data-photo>
+          <img src="assets/galeria/galeria-bocaditos.png" alt="Caja de bocaditos dulces y salados" data-photo>
           <figcaption><span>Bocaditos</span><strong>Opciones para reuniones, lonches y eventos</strong></figcaption>
         </figure>
       </div>
@@ -164,7 +164,7 @@
           </label>
 
           <label>
-            Telefono
+            Teléfono
             <input type="tel" id="clientPhone" placeholder="Ej: 999 999 999" autocomplete="tel" />
             <small class="field-error" id="phoneError"></small>
           </label>
@@ -253,7 +253,7 @@
 
     <section class="section" id="postres">
       <div class="section-title">
-        <p class="eyebrow">Catalogo</p>
+        <p class="eyebrow">Catálogo</p>
         <h2>Postres por unidad o caja</h2>
         <p>Agrega los postres que el cliente desea y el sistema calcula el subtotal.</p>
       </div>
@@ -273,7 +273,7 @@
 
         <div class="card table-card">
           <h3>Postres elegidos</h3>
-          <div id="dessertList" class="item-list empty">Aun no agregaste postres.</div>
+          <div id="dessertList" class="item-list empty">Aún no agregaste postres.</div>
           <div class="subtotal-row">
             <span>Subtotal postres</span>
             <strong id="dessertTotal">S/ 0.00</strong>
@@ -360,7 +360,7 @@
 
   <footer class="footer">
     <div class="footer-brand">
-      <img src="assets/dulzuras-de-magaly-logo.png" alt="Logo Dulzuras de Magaly">
+      <img src="assets/branding/dulzuras-de-magaly-logo.png" alt="Logo Dulzuras de Magaly">
       <strong>Dulzuras de Magaly</strong>
       <p>Tortas, postres y buffet a pedido.</p>
     </div>
@@ -371,9 +371,9 @@
     <p class="small">© <span id="year"></span> Dulzuras de Magaly. Todos los derechos reservados.</p>
   </footer>
 
-  <script src="portfolio.js?v=2"></script>
-  <script src="inspiration.js?v=2"></script>
-  <script src="script.js?v=10"></script>
+  <script src="js/portfolio.js?v=2"></script>
+  <script src="js/inspiration.js?v=2"></script>
+  <script src="js/script.js?v=10"></script>
 </body>
 </html>
 

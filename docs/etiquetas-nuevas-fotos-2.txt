@@ -1,0 +1,461 @@
+﻿torta-alianza-lima-con-cerveza-vertida.jpeg
+  Tema: Futbol / deportes
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Con topper, Decoracion simple
+  Colores: azul, blanco
+  Etiquetas: alianza, lima, cerveza, vertida, cumpleanos, futbol, deportes
+
+torta-alta-azul-dorada-con-corona-variante-1.jpg
+  Tema: Adultos / elegante
+  Forma: Alta
+  DecoraciÃ³n: Detalles dorados, Con topper, Decoracion simple
+  Colores: azul, dorado
+  Etiquetas: alta, azul, dorada, corona, cumpleanos
+
+torta-alta-azul-dorada-con-corona-variante-2.jpg
+  Tema: Adultos / elegante
+  Forma: Alta
+  DecoraciÃ³n: Detalles dorados, Con topper, Decoracion simple
+  Colores: azul, dorado
+  Etiquetas: alta, azul, dorada, corona, cumpleanos
+
+torta-alta-azul-dorada-para-40-anos-variante.jpg
+  Tema: Adultos / elegante
+  Forma: Alta
+  DecoraciÃ³n: Detalles dorados, Decoracion simple
+  Colores: azul, dorado
+  Etiquetas: alta, azul, dorada, cumpleanos
+
+torta-alta-azul-negra-y-dorada.jpeg
+  Tema: Adultos / elegante
+  Forma: Alta
+  DecoraciÃ³n: Detalles dorados, Decoracion simple
+  Colores: negro, azul, dorado
+  Etiquetas: alta, azul, negra, y, dorada, cumpleanos
+
+torta-blanca-con-espiral-y-confites.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco
+  Etiquetas: blanca, espiral, y, confites, cumpleanos
+
+torta-blanca-con-goteo-negro-y-chocolates.webp
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con drip, Decoracion simple
+  Colores: blanco, negro, chocolate
+  Etiquetas: blanca, goteo, negro, y, chocolates, cumpleanos
+
+torta-caballero-con-bigote-y-corbatin.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con figura, Decoracion simple
+  Colores: multicolor
+  Etiquetas: caballero, bigote, y, corbatin, cumpleanos
+
+torta-camiseta-river-plate.jpeg
+  Tema: Futbol / deportes
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: rojo, azul, blanco
+  Etiquetas: camiseta, river, plate, cumpleanos, futbol, deportes
+
+torta-cerveza-corona-con-jarra.jpg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Detalles dorados, Con topper, Decoracion simple
+  Colores: multicolor
+  Etiquetas: cerveza, corona, jarra, cumpleanos
+
+torta-chocolate-alta-para-amante-del-whisky.jpeg
+  Tema: Adultos / elegante
+  Forma: Alta
+  DecoraciÃ³n: Con topper, Decoracion simple
+  Colores: chocolate
+  Etiquetas: chocolate, alta, amante, del, whisky, cumpleanos
+
+torta-cuadrada-amarilla-con-limones.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: amarillo
+  Etiquetas: cuadrada, amarilla, limones, cumpleanos
+
+torta-cuadrada-azul-con-chocolates.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: azul, chocolate
+  Etiquetas: cuadrada, azul, chocolates, cumpleanos
+
+torta-cuadrada-blanca-con-borde-rosado.jpg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco, rosado
+  Etiquetas: cuadrada, blanca, borde, rosado, cumpleanos
+
+torta-cuadrada-blanca-con-cerezas.png
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco
+  Etiquetas: cuadrada, blanca, cerezas, cumpleanos
+
+torta-cuadrada-blanca-con-flores-coloridas.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Con flores, Decoracion simple
+  Colores: blanco
+  Etiquetas: cuadrada, blanca, flores, coloridas, cumpleanos
+
+torta-cuadrada-blanca-con-flores-naturales.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Con flores, Decoracion simple
+  Colores: blanco
+  Etiquetas: cuadrada, blanca, flores, naturales, cumpleanos
+
+torta-cuadrada-blanca-con-fresas.webp
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco
+  Etiquetas: cuadrada, blanca, fresas, cumpleanos
+
+torta-cuadrada-blanca-con-rosas-rosadas.jpg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Con flores, Decoracion simple
+  Colores: blanco, rosado
+  Etiquetas: cuadrada, blanca, rosas, rosadas, cumpleanos
+
+torta-cuadrada-chocolate-con-galletas.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: chocolate
+  Etiquetas: cuadrada, chocolate, galletas, cumpleanos
+
+torta-cuadrada-con-flores-rosadas-y-lilas.jpg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Con flores, Decoracion simple
+  Colores: rosado, lila
+  Etiquetas: cuadrada, flores, rosadas, y, lilas, cumpleanos
+
+torta-cuadrada-pj-masks.jpg
+  Tema: Infantil / para ninos
+  Forma: Rectangular
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: multicolor
+  Etiquetas: cuadrada, pj, masks, cumpleanos, infantil, ninos
+
+torta-cuadrada-rosada-con-chocolates-blancos.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco, rosado, chocolate
+  Etiquetas: cuadrada, rosada, chocolates, blancos, cumpleanos
+
+torta-cuadrada-rosada-con-flores-pequenas.png
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Con flores, Decoracion simple
+  Colores: rosado
+  Etiquetas: cuadrada, rosada, flores, pequenas, cumpleanos
+
+torta-cuadrada-vintage-aniversario.jpg
+  Tema: Boda / aniversario
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: multicolor
+  Etiquetas: cuadrada, vintage, aniversario, cumpleanos, boda, romantica
+
+torta-cuadrada-vintage-con-cerezas.jpeg
+  Tema: Adultos / elegante
+  Forma: Rectangular
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: multicolor
+  Etiquetas: cuadrada, vintage, cerezas, cumpleanos
+
+torta-despedida-de-viaje-con-avion.png
+  Tema: Personalizada especial
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con topper, Decoracion simple
+  Colores: multicolor
+  Etiquetas: despedida, viaje, avion, cumpleanos
+
+torta-dos-pisos-azul-blanca-y-dorada.jpeg
+  Tema: Adultos / elegante
+  Forma: Dos pisos
+  DecoraciÃ³n: Detalles dorados, Decoracion cargada
+  Colores: blanco, azul, dorado
+  Etiquetas: pisos, azul, blanca, y, dorada, cumpleanos
+
+torta-dos-pisos-azul-negra-con-macarons.jpeg
+  Tema: Adultos / elegante
+  Forma: Dos pisos
+  DecoraciÃ³n: Solo decorada bonito, Decoracion cargada
+  Colores: negro, azul
+  Etiquetas: pisos, azul, negra, macarons, cumpleanos
+
+torta-dos-pisos-azul-plata-para-18-anos.jpeg
+  Tema: Adultos / elegante
+  Forma: Dos pisos
+  DecoraciÃ³n: Solo decorada bonito, Decoracion cargada
+  Colores: azul
+  Etiquetas: pisos, azul, plata, cumpleanos
+
+torta-dos-pisos-con-circulos-verdes.jpg
+  Tema: Adultos / elegante
+  Forma: Dos pisos
+  DecoraciÃ³n: Solo decorada bonito, Decoracion cargada
+  Colores: verde
+  Etiquetas: pisos, circulos, verdes, cumpleanos
+
+torta-elegante-azul-blanca-para-90-anos.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco, azul
+  Etiquetas: elegante, azul, blanca, cumpleanos
+
+torta-elegante-lila-con-balanza-de-justicia.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: lila
+  Etiquetas: elegante, lila, balanza, justicia, cumpleanos
+
+torta-esmoquin-blanca-y-negra-para-15-anos.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con figura, Decoracion simple
+  Colores: blanco, negro
+  Etiquetas: esmoquin, blanca, y, negra, cumpleanos
+
+torta-hombre-con-auto-y-chocolates.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con figura, Decoracion simple
+  Colores: chocolate
+  Etiquetas: hombre, auto, y, chocolates, cumpleanos
+
+torta-infantil-tiburon-tralalero.webp
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: multicolor
+  Etiquetas: infantil, tiburon, tralalero, cumpleanos, ninos
+
+torta-meme-bueno-y-mis-regalos.png
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, bueno, y, mis, regalos, cumpleanos
+
+torta-meme-cumpleanos-felices-22.jpg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, cumpleanos, felices
+
+torta-meme-exito-en-tus-nuevos-comienzos.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, exito, en, tus, nuevos, comienzos, cumpleanos
+
+torta-meme-feliz-cumpleanos.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, feliz, cumpleanos
+
+torta-meme-mejor-carde-que-perdone.jpg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, mejor, carde, que, perdone, cumpleanos
+
+torta-meme-no-hay-mal-que-dure.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, no, hay, mal, que, dure, cumpleanos
+
+torta-meme-no-me-estresen.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, no, me, estresen, cumpleanos
+
+torta-meme-pero-a-que-costo.jpg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, pero, a, que, costo, cumpleanos
+
+torta-meme-todavia-en-la-flor.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con flores, Con nombre o frase, Decoracion simple
+  Colores: multicolor
+  Etiquetas: meme, todavia, en, la, flor, cumpleanos
+
+torta-negra-con-macarons-y-burbujas.webp
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Detalles dorados, Decoracion simple
+  Colores: negro
+  Etiquetas: negra, macarons, y, burbujas, cumpleanos
+
+torta-pj-masks-para-ander.jpeg
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: multicolor
+  Etiquetas: pj, masks, ander, cumpleanos, infantil, ninos
+
+torta-primera-comunion-con-cruz-y-mariposas.jpg
+  Tema: Bautizo / primera comunion
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: multicolor
+  Etiquetas: primera, comunion, cruz, y, mariposas, cumpleanos, bautizo, primera comunion
+
+torta-quinceanera-rosada-de-tres-pisos.jpeg
+  Tema: Quinceanos
+  Forma: Forma especial a consultar
+  DecoraciÃ³n: Solo decorada bonito, Decoracion cargada
+  Colores: rosado
+  Etiquetas: quinceanera, rosada, pisos, cumpleanos, quinceanos, 15 anos
+
+torta-real-madrid-con-balon.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Con topper, Decoracion simple
+  Colores: multicolor
+  Etiquetas: real, madrid, balon, cumpleanos
+
+torta-river-plate-con-balon.jpeg
+  Tema: Futbol / deportes
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Con topper, Decoracion simple
+  Colores: rojo, azul, blanco
+  Etiquetas: river, plate, balon, cumpleanos, futbol, deportes
+
+torta-river-plate-con-chocolates.jpeg
+  Tema: Futbol / deportes
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: chocolate, rojo, azul, blanco
+  Etiquetas: river, plate, chocolates, cumpleanos, futbol, deportes
+
+torta-rock-acdc-roja-y-negra.jpeg
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: negro, rojo
+  Etiquetas: rock, acdc, roja, y, negra, cumpleanos
+
+torta-spiderman-blanca-con-telaranas.jpeg
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: blanco, rojo, azul
+  Etiquetas: spiderman, blanca, telaranas, cumpleanos, infantil, ninos
+
+torta-spiderman-dos-pisos-bebe-2-meses.jpeg
+  Tema: Infantil / para ninos
+  Forma: Dos pisos
+  DecoraciÃ³n: Tematica personalizada, Decoracion cargada
+  Colores: rojo, azul, blanco
+  Etiquetas: spiderman, pisos, bebe, meses, cumpleanos, infantil, ninos
+
+torta-spiderman-dos-pisos-para-5-anos.jpg
+  Tema: Infantil / para ninos
+  Forma: Dos pisos
+  DecoraciÃ³n: Tematica personalizada, Decoracion cargada
+  Colores: rojo, azul, blanco
+  Etiquetas: spiderman, pisos, cumpleanos, infantil, ninos
+
+torta-spiderman-dos-pisos-para-matias.jpeg
+  Tema: Infantil / para ninos
+  Forma: Dos pisos
+  DecoraciÃ³n: Tematica personalizada, Decoracion cargada
+  Colores: rojo, azul, blanco
+  Etiquetas: spiderman, pisos, matias, cumpleanos, infantil, ninos
+
+torta-spiderman-roja-para-3-anos.jpg
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: rojo, azul, blanco
+  Etiquetas: spiderman, roja, cumpleanos, infantil, ninos
+
+torta-spiderman-roja-y-azul-para-5-anos.jpeg
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: azul, rojo, blanco
+  Etiquetas: spiderman, roja, y, azul, cumpleanos, infantil, ninos
+
+torta-stitch-celeste.jpeg
+  Tema: Infantil / para ninos
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Decoracion simple
+  Colores: celeste
+  Etiquetas: stitch, celeste, cumpleanos, infantil, ninos
+
+torta-tres-pisos-azul-con-estrellas-para-70-anos.jpeg
+  Tema: Adultos / elegante
+  Forma: Forma especial a consultar
+  DecoraciÃ³n: Solo decorada bonito, Decoracion cargada
+  Colores: azul
+  Etiquetas: pisos, azul, estrellas, cumpleanos
+
+torta-tres-pisos-azul-dorada-variante.jpg
+  Tema: Adultos / elegante
+  Forma: Forma especial a consultar
+  DecoraciÃ³n: Detalles dorados, Decoracion cargada
+  Colores: azul, dorado
+  Etiquetas: pisos, azul, dorada, cumpleanos
+
+torta-vaquera-negra-y-blanca-para-30-anos.avif
+  Tema: Adultos / elegante
+  Forma: Redonda clasica
+  DecoraciÃ³n: Solo decorada bonito, Decoracion simple
+  Colores: blanco, negro
+  Etiquetas: vaquera, negra, y, blanca, cumpleanos
+
+torta-viajero-con-avion-y-mapa.jpg
+  Tema: Personalizada especial
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Con topper, Decoracion simple
+  Colores: multicolor
+  Etiquetas: viajero, avion, y, mapa, cumpleanos
+
+torta-viajero-con-maleta-y-destinos.jpg
+  Tema: Personalizada especial
+  Forma: Redonda clasica
+  DecoraciÃ³n: Tematica personalizada, Con topper, Decoracion simple
+  Colores: multicolor
+  Etiquetas: viajero, maleta, y, destinos, cumpleanos
+
+torta-viajero-dos-pisos-con-maletas.jpeg
+  Tema: Personalizada especial
+  Forma: Dos pisos
+  DecoraciÃ³n: Tematica personalizada, Con topper, Decoracion cargada
+  Colores: multicolor
+  Etiquetas: viajero, pisos, maletas, cumpleanos

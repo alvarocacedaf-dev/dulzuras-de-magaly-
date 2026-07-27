@@ -1,0 +1,33 @@
+FLUJO PARA AGREGAR NUEVAS FOTOS DE INSPIRACION
+================================================
+
+La carpeta:
+assets/inspiracion/nuevas fotos 2/
+
+funciona como bandeja de entrada temporal.
+
+Proceso:
+1. Coloca las nuevas fotos dentro de "nuevas fotos 2".
+2. Codex revisa visualmente cada foto.
+3. Codex cambia los nombres genericos por nombres descriptivos.
+4. Codex agrega para cada imagen:
+   - id
+   - title
+   - image
+   - theme
+   - shape
+   - decoration
+   - colors
+   - tags
+5. Codex mueve las fotos procesadas a:
+   assets/inspiracion/
+6. La carpeta "nuevas fotos 2" vuelve a quedar vacia para recibir
+   el siguiente lote.
+7. Se comprueba que no existan rutas rotas, nombres duplicados ni
+   imagenes sin etiquetar.
+
+Las etiquetas se guardan en:
+js/inspiration.js
+
+No es necesario cambiar los nombres manualmente antes de colocar las
+fotos nuevas en la bandeja de entrada.

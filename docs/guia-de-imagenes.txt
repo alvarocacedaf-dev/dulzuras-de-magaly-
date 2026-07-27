@@ -1,0 +1,9 @@
+Coloca aqui las fotos reales del negocio.
+
+Nombres sugeridos:
+- assets/inicio/hero-torta.jpg
+- assets/inicio/torta-1.jpg
+- assets/inicio/postres-1.jpg
+- assets/inicio/buffet-1.jpg
+
+Puedes reemplazar estos nombres en index.html si prefieres usar otros archivos.
