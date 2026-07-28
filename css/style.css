@@ -488,6 +488,90 @@ a {
   color: var(--brand-dark);
 }
 
+.faq-section {
+  background: rgba(255, 253, 249, 0.72);
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.faq-item {
+  align-self: start;
+  overflow: hidden;
+  border: 1px solid rgba(196, 93, 115, 0.18);
+  border-radius: 16px;
+  background: #fffdf9;
+  box-shadow: 0 12px 30px rgba(95, 58, 55, 0.08);
+}
+
+.faq-item summary {
+  position: relative;
+  padding: 20px 54px 20px 20px;
+  color: var(--brand-dark);
+  font-weight: 700;
+  line-height: 1.45;
+  cursor: pointer;
+  list-style: none;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary::after {
+  content: "+";
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(196, 93, 115, 0.11);
+  color: var(--accent);
+  font-size: 1.25rem;
+  line-height: 28px;
+  text-align: center;
+  transform: translateY(-50%);
+}
+
+.faq-item[open] summary::after {
+  content: "−";
+}
+
+.faq-item[open] summary {
+  border-bottom: 1px solid rgba(196, 93, 115, 0.12);
+}
+
+.faq-item p {
+  margin: 0;
+  padding: 18px 20px 21px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.faq-contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+  margin-top: 22px;
+  padding: 22px;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, rgba(253, 235, 238, 0.85), rgba(255, 245, 240, 0.92));
+}
+
+.faq-contact p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.faq-contact strong {
+  color: var(--brand-dark);
+}
+
 .gallery-grid {
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
@@ -941,6 +1025,7 @@ input[aria-invalid="true"] {
 @media (max-width: 860px) {
   .service-grid,
   .info-grid,
+  .faq-grid,
   .trust-strip,
   .footer {
     grid-template-columns: 1fr;
@@ -986,6 +1071,11 @@ input[aria-invalid="true"] {
 
   .price-note {
     display: block;
+  }
+
+  .faq-contact {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .brand-area {
